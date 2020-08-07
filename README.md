@@ -6,6 +6,6 @@
 ___
 
 * python
-*LenguajeC
-*LenguajeR
-*Bash
+* LenguajeC 
+* LenguajeR
+* Bash
